@@ -13,7 +13,42 @@ header{
 }
 .caixa01{
     width: 50%;
-    height: 400px;
+    height: 600px;
     background-color: black;
     float: left;
+}
+.caixa02{
+    width: 25%;
+    height: 300px;
+    background-color: blue;
+    float: left;
+}
+.caixa03{
+    width: 25%;
+    height: 300px;
+    background-color: red;
+    float: left;
+}
+.caixa04{
+    width: 25%;
+    height: 300px;
+    background-color: green;
+    float: left;
+}
+.caixa05{
+    width: 25%;
+    height: 300px;
+    background-color: purple;
+    float: left;
+}
+.banner02{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    clear: left;
+}
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: yellow;
 }
