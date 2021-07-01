@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 400px;
+    background-color: cyan;
+}
+.banner01{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+}
+.caixa01{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+    float: left;
+}
